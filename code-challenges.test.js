@@ -23,7 +23,7 @@ var secretCodeWord2 = "Gobbledygook"
 var secretCodeWord3 = "Eccentric"
 // Expected output: "3cc3ntr1c"
 
-
+//blah balbah blah
 
 // b) Create the function that makes the test pass.
 

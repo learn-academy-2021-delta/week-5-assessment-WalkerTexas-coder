@@ -8,7 +8,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 1. Are (most) Ruby methods accessors or mutators?
 
   Your answer:
-
+you bet 
   Researched answer:
 
 
