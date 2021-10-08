@@ -15,6 +15,7 @@ letter_t = 't'
 
 nums_array1 = [42, 7, 27]
 # Expected output: 76
+# oh no
 
 nums_array2 = [25, 17, 47, 11]
 # Expected output: 100
